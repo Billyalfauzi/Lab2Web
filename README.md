@@ -1,11 +1,19 @@
 # Tugas Pemograman Web 2
-## Profil
-| ~               | Biodata                |
-| --------------- | -----------------      |
-| **Nama**        | Billy Alfauzi Caesar   |
-| **NIM**         | 312110153              |
-| **Kelas**       | TI.21.A.1              |
-| **Mata Kuliah** | Pemrograman Web 2      |
+## Profile
+<body>
+    <table border="1">
+        <tr>
+            <th> Nama</th>
+            <th>NIM</th>
+            <th>Kelas</th>
+        </tr>
+        <tr>
+            <td>Billy Alfauzi Caesar</td>
+            <td>312110152</td>
+            <td>TI.21.A.1</td>
+        </tr>
+    </table>
+</body>
 
 ## Persiapan
 Untuk memulai membuat kode php, perlu disiapkan web server dan interpreter PHP terlebih dahulu. Web server yang kita gunakan adalah Apache2 dan interpreter PHP 7. Untuk memudahkan proses praktikum, kita gunakan aplikasi bundle web server yaitu XAMPP.
