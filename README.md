@@ -20,11 +20,9 @@ Untuk memulai membuat kode php, perlu disiapkan web server dan interpreter PHP t
 
 ### Install XAMPP
 1. Unduh XAMPP [Disini](https://www.apachefriends.org/download.html) dan sesuaikan dengan sistem operasi kalian, lalu pilih versi php (disini saya pilih PHP 7) setelah itu klik Download.
-2. Kemudian buka installer XAMPP nya, setelah itu tinggal next saja hingga selesai.
-3. Secara default XAMPP itu akan disimpan dalam Local Disk (C:)
-4. Buka XAMPP Control Panel.
-5. Lalu klik Start pada Apache dan MySQL.
-6. Kemudian uji coba apakah web server sudah bekerja dengan baik dengan mengetik http://127.0.0.1 atau http://localhost
+3. Buka XAMPP Control Panel.
+4. Lalu klik Start pada Apache dan MySQL.
+5. Kemudian buka http://localhost/phpmyadmin/
 
 ### Memulai PHP
 <p>Buat folder (lab2_php_dasar) pada root direktori web server (C:\xampp\htdocs)
