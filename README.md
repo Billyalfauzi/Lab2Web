@@ -15,14 +15,10 @@
     </table>
 </body>
 
-## Persiapan
-Untuk memulai membuat kode php, perlu disiapkan web server dan interpreter PHP terlebih dahulu. Web server yang kita gunakan adalah Apache2 dan interpreter PHP 7. Untuk memudahkan proses praktikum, kita gunakan aplikasi bundle web server yaitu XAMPP.
-
-### Install XAMPP
-1. Unduh XAMPP [Disini](https://www.apachefriends.org/download.html) dan sesuaikan dengan sistem operasi kalian, lalu pilih versi php (disini saya pilih PHP 7) setelah itu klik Download.
-3. Buka XAMPP Control Panel.
-4. Lalu klik Start pada Apache dan MySQL.
-5. Kemudian buka http://localhost/phpmyadmin/
+### Jalankan XAMPP
+1. Buka XAMPP Control Panel.
+2. Lalu klik Start pada Apache dan MySQL.
+3. Kemudian buka http://localhost/phpmyadmin/
 
 ### Memulai PHP
 <p>Buat folder (lab2_php_dasar) pada root direktori web server (C:\xampp\htdocs)
@@ -430,5 +426,6 @@ span {
 - Sesudah diinput.
 
 ![Praktikum2](image/ss8.png)
-
-# Panjang Umur Untuk Semua Hal-hal Baik
+    
+## Done :)
+# Panjang Umur Untuk Semua Hal-hal Baik !
